@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 **Marcus Rauls | Data Professional specializing in Logistics & Operations**
 
-This repository contains my professional data projects, focusing on transforming complex operational datasets into actionable business insights.
+This repository contains my professional data projects, focusing on cleaning, transforming, and analyzing complex operational datasets to deliver actionable business insights. I specialize in ensuring 100% data accuracy through rigorous validation and ETL processes.
 
 ### 🛠️ Technical Stack
 * **Languages:** SQL, Python (Pandas, NumPy), R
